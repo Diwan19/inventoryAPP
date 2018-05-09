@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ProductInventory</string>
+
+    <string name="productname_text">Product Name:</string>
+    <string name="product_price">Price:</string>
+    <string name="quantitytext">Quantity:</string>
+    <string name="product_code">Product Code:</string>
+
+    <string name="product_name">Enter Product Name</string>
+    <string name="prodprice">Enter Product Price</string>
+    <string name="hint_productcode">eg:00000112</string>
+
+    <string name="deletedialogmsg">Do you want to Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+
+    <string name="editor_activity_title_new_product">Add a Product</string>
+
+    <string name="editor_insert_product_successful">Product Saved</string>
+
+    <string name="editor_insert_product_failed">Error with saving Product</string>
+
+    <string name="update_productFailed">Error with updating product.</string>
+
+    <string name="Update_productsuccessful">Product Updated.</string>
+
+    <string name="delete_productsuccessful">Product deleted</string>
+
+    <string name="delete_productfailed">Error with deleting product</string>
+
+    <string name="unsavedchanges_dialogmsg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    
+    <string name="SaveData">Save</string>
+    <string name="deletedata">delete</string>
+    <string name="submitorder">submit</string>
+    <string name="ProductName">Product Name</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Price">Price</string>
+    <string name="productcode">Product code</string>
+    <string name="sellProduct">sell</string>
+</resources>
